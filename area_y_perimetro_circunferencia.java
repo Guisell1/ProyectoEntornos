@@ -1,4 +1,4 @@
-package UD2;
+package Proyecto;
 
 import java.util.Scanner;
 
